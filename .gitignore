@@ -1,0 +1,8 @@
+node_modules
+*.js
+!css-to-ts.js
+*.css
+*.css.ts
+*.map
+*.d.ts
+!types/*.d.ts
